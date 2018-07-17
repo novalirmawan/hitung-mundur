@@ -1,6 +1,6 @@
 /*
 Author: Robert Hashemian
-http://www.hashemian.com/
+http://www.portalsoho.com/
 
 Use of this code is hereby granted to anyone. No attribution is required.
 ********************************************************
